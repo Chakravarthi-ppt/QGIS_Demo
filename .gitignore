@@ -1,0 +1,19 @@
+# Build folder
+build/
+
+# Qt generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Object files
+*.o
+*.so
+*.a
+
+# User files
+*.pro.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
